@@ -1,0 +1,17 @@
+{
+    "veena" : {
+        "password": "$2b$10$43HxoQiD55cKmfgqKk3Ewe2DIf2SLOH7ORAJGJjK7TRVjnRL6m5hW",
+        "rating": {
+            "1": 3,
+            "5": 8
+        },
+        "role": "user"
+    },
+    "anudeep" : {
+        "password": "$2b$10$fFjgX2CiKj50I8JSZJqJL.sh7K5vLCpuB0kCamhVKC2uUnHBZEvsu",
+        "rating": {
+            "1": 3
+        },
+        "role": "admin"
+    }
+}
