@@ -8,10 +8,11 @@
     - npm start
 
 ### Test
-    - Movies Api is running on local host port 3000. You can import the collection and test it on Postman from https://www.getpostman.com/collections/6226ef0d286dccc6840d or by using the file "movies-api.postman_collection.json"
+    - Movies Api is running on local host port 3000. 
+    - You can import the collection and test it on Postman from https://www.getpostman.com/collections/6226ef0d286dccc6840d or by using the file "movies-api.postman_collection.json"
 
 ### Source Code and Implementation
-    - 2 users has been created namely Veena and Anudeed (password is hashed)
+    - 2 users has been created namely Veena and Anudeep (password is hashed)
     - credentials: 
     User1:
     username: anudeep
@@ -20,3 +21,8 @@
     User2:
     username: veena
     password: veena123
+    - Upon successful login the users will be redirected to movies page. 
+    - Implemented the pagination for Movies database using Materials table 
+    - The movies data can be viewed in data->movies.json
+
+    ![architecture v1.0](https://github.com/VeenaNalluri/Movies-Database/blob/master/movies_json.PNG)
