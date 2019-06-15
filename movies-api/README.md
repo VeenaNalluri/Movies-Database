@@ -26,3 +26,8 @@
     - The movies data can be viewed in data->movies.json
 
     ![](images/movies.PNG)
+
+    - Each movie has an id, title, description, average rating and comments by users
+    - Admin can add, edit, delete the movie - localhost/3001/admin
+    - When the user clicks on the movie title they will be redirected to title/id page which is implemented using materials table
+    - 
