@@ -25,4 +25,4 @@
     - Implemented the pagination for Movies database using Materials table 
     - The movies data can be viewed in data->movies.json
 
-    ![architecture v1.0](https://github.com/VeenaNalluri/Movies-Database/blob/master/movies_json.PNG)
+    ![](https://github.com/VeenaNalluri/Movies-Database/blob/master/movies_json.PNG)
