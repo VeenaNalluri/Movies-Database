@@ -25,4 +25,4 @@
     - Implemented the pagination for Movies database using Materials table 
     - The movies data can be viewed in data->movies.json
 
-    ![](images/moviesjson.PNG)
+    ![](images/movies.PNG)
