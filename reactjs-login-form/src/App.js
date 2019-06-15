@@ -3,7 +3,7 @@ import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
 
 import Login from './components/login/Login';
 import Movies from './components/movies/movies1';
-import Title from './components/movies/title';
+import Title from './components/movies/title1';
 import Admin from './components/movies/admin';
 
 import PrivateRoute from './components/router/PrivateRoute'
